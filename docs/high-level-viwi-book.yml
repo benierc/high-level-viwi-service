@@ -1,0 +1,17 @@
+type: books
+books:
+-
+    id: high-level-wiwi
+    languages:
+    - language: en
+      title: High level ViWi service Guide
+      description:  High level ViWi service Guide Description
+      keywords:
+      author: "IotBzh"
+      website: http:docs.iot.bzh
+      version: master
+      chapters:
+        - url: 1-Architecture.md
+          name: Architecture presentation
+        - url: 2-Install-Usage.md
+          name: Installation and Usage Guide
